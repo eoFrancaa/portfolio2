@@ -1,4 +1,4 @@
-# 🚀 Portfólio - Rafael de França
+# 🚀 Portfólio - Teste
 
 Este é meu portfólio pessoal desenvolvido para apresentar meus projetos, habilidades e experiências na área de tecnologia.
 
@@ -35,13 +35,3 @@ Execute:
 ```bash
 npm run dev
 ```
-
-## 👨‍💻 Autor
-
-Rafael de França
-
-GitHub:  
-https://github.com/eoFrancaa
-
-LinkedIn:  
-https://www.linkedin.com/in/rafael-de-fran%C3%A7a-26009b240/
